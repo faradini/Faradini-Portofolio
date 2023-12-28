@@ -6,7 +6,7 @@
 3.	Identify the distribution center with the highest quantity of products. Provide the distribution center's name, the quantity of products, and the most commonly sold product. Sort the results based on the quantity of products in descending order.
 4.	Locate the distribution center with the highest total revenue. Include the distribution center's name, product name, total production cost, total retail price, and total revenue. Sort the results based on total revenue in descending order.
 
-Here are the outcomes of the analysis for the specified case studies:
+Here are the codes of the analysis for the specified case studies:
 */
 
 /* STUDY CASE 1 */

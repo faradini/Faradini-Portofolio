@@ -1,5 +1,5 @@
 # Faradini's Data Analysis Portofolio
-## Project 1: Sales Database Analysis Using SQL(https://github.com/faradini/data_portofolio/blob/main/SQL%20Projects/SALES%20DATA.sql)
+## [Project 1: Sales Database Analysis Using SQL](https://github.com/faradini/data_portofolio/blob/main/SQL%20Projects/SALES%20DATA.sql)
 Using SQL, I have been tasked with analyzing a sales database. The database contains several necessary datasets to analyze the following case studies:
 1. Find the product names and total sales (in retail price) for each product that has been delivered during a specific December of 2022 with the status = Complete. Sort the results i descending order based on total sales.
 2.	Retrieve the usernames and total orders made by users between July 1, 2022, and August 15, 2022, ordering the usernames with the highest total orders.

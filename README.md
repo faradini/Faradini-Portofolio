@@ -1,5 +1,6 @@
-## [Project 1: Medical Data Visualization Using Tableau](https://public.tableau.com/views/project_17009341460280/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
-In this project, I have been asked to analyze a survey dataset regarding sleep quality and lifestyle of several respondents. The dataset comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. The dataset used can be accessed [here](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+## [Project 1: Medical Data Visualization Using Tableau](https://public.tableau.com/views/medicaldataanalyst_17010627038410/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
+In this project, I have been asked to analyze a survey dataset regarding sleep quality and lifestyle of several respondents. The dataset comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. The dataset used can be accessed [here](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset).
+
 
 ## [Project 2: Sales Database Analysis Using SQL](https://github.com/faradini/data_portofolio/blob/main/SQL%20Projects/SALES%20DATA.sql)
 Using SQL, I have been tasked with analyzing a sales database. The database contains several necessary datasets to analyze the following case studies:

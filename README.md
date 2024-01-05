@@ -4,6 +4,12 @@ The first step is indeed to preprocess by checking for missing values. Once it's
 
 ![](https://github.com/faradini/Faradini-Portofolio/assets/70733376/6e7b4aea-04ec-497b-8672-b1539026de62)
 
+Among several variables considered, I utilized four in visualizing their relationship with sleep quality. The conclusions drawn are as follows:
+1. For BMI category and sleep disorder, I employed a bar chart. It's evident that respondents without sleep disorders exhibit the best sleep quality. Similarly, concerning BMI category, respondents categorized as normal show the highest sleep quality.
+2. I utilized a scatter plot for physical activity. It illustrates a positive correlation between physical activity and sleep quality. This implies that higher levels of physical activity among respondents correspond to better sleep quality.
+3. The last variable visualized was occupation using a heatmap. It's apparent that respondents working as nurses exhibit the highest sleep quality.
+   
+The visualized data validates that daily habits significantly influence an individual's lifestyle. Therefore, maintaining weight, ensuring adequate physical activity, maintaining health, are crucial elements in preserving sleep quality.
 
 ## [Project 2: Sales Database Analysis Using SQL](https://github.com/faradini/data_portofolio/blob/main/SQL%20Projects/SALES%20DATA.sql)
 Using SQL, I have been tasked with analyzing a sales database. The database contains several necessary datasets to analyze the following case studies:

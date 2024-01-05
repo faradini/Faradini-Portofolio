@@ -2,7 +2,7 @@
 In this project, I have been asked to analyze a survey dataset regarding sleep quality and lifestyle of several respondents. The dataset comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. The dataset used can be accessed [here](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset).
 The first step is indeed to preprocess by checking for missing values. Once it's confirmed that there are no missing values and outliers, the data is ready for visualization.
 
-![](https://github.com/faradini/Faradini-Portofolio/blob/main/Images/Dashboard%202.png)
+![](https://github.com/faradini/Faradini-Portofolio/assets/70733376/6e7b4aea-04ec-497b-8672-b1539026de62)
 
 
 ## [Project 2: Sales Database Analysis Using SQL](https://github.com/faradini/data_portofolio/blob/main/SQL%20Projects/SALES%20DATA.sql)
